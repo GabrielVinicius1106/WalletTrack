@@ -1,5 +1,16 @@
 {
   "users": [
-    
+    {
+      "userAdmin": false,
+      "userID": 45,
+      "userName": "Gabriel",
+      "userPassword": "12345"
+    },
+    {
+      "userAdmin": false,
+      "userID": 643,
+      "userName": "Gabi",
+      "userPassword": "12345"
+    }
   ]
 }

@@ -380,7 +380,7 @@ export const toDeleteExpenses = async (userName, userID) => {
             }))
         })
     } else {
-        console.log("Não há gastos!");
+        console.log(" Não há gastos!");
         await delay(2000)
         await loading(" Voltando")
         await loadExpensesSystem(userName, userID)
